@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aryanv1118/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aryanv1118/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aryanv1118/DSA-Practice/tree/master/0283-move-zeroes) |
