@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
@@ -59,7 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/Aryanv1118/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -149,10 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/Aryanv1118/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -165,9 +165,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
-| [0011-container-with-most-water](https://github.com/Aryanv1118/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0680-valid-palindrome-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
