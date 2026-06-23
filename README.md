@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0169-majority-element) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
