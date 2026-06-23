@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryanv1118/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Aryanv1118/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aryanv1118/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aryanv1118/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Aryanv1118/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
