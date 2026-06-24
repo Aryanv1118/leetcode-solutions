@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aryanv1118/DSA-Practice/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanv1118/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryanv1118/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aryanv1118/DSA-Practice/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aryanv1118/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryanv1118/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
