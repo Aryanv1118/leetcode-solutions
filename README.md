@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Aryanv1118/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aryanv1118/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Aryanv1118/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aryanv1118/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aryanv1118/DSA-Practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Aryanv1118/DSA-Practice/tree/master/0075-sort-colors) |
@@ -451,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanv1118/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aryanv1118/DSA-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
